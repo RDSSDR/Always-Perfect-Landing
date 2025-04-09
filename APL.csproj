@@ -6,5 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <LangVersion>latest</LangVersion>
+	<DebugType>none</DebugType>
+	<DebugSymbols>false</DebugSymbols>
   </PropertyGroup>
 </Project>
